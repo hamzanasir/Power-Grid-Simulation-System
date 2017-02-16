@@ -1,0 +1,9 @@
+10000001,Answering Machine,10,1.0,false,0.0
+10000001,Television - 27 inch,125,1.0,false,0.0
+10000001,Freezer - Upright/Chest 17 cu. ft,600,1.0,true,0.25
+10000002,Air Conditioner - 10000 BTU,1000,1.0,true,0.5
+10000002,Refrigerator - 21 cu.ft. - Frostfree,572,1.0,true,0.25
+10000002,Lighting - 75 Watt,75,1.0,false,0.0
+10000003,Television - 27 inch,125,1.0,false,0.0
+10000003,Range - Large Surface Unit,2400,1.0,false,0.0
+10000003,Toaster,1000,1.0,false,0.0
